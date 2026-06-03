@@ -1,22 +1,18 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,30:0d1b5e,60:1a3a8f,100:4fc3f7&height=220&section=header&text=ROHAN%20JULIUS&fontSize=72&fontColor=ffffff&fontAlignY=50&desc=AI%20Engineer%20%E2%80%94%20Deep%20Learning%20Enthusiast%20%E2%80%94%20ML%20Researcher&descSize=18&descAlignY=72&descColor=cccccc&animation=fadeIn&stroke=4fc3f7&strokeWidth=1" width="100%" alt="Rohan Julius Hero Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img alt="3D Contribution Graph"
+       src="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"
+       width="100%"/>
+</picture>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&background=00000000&width=520&lines=Aspiring+AI+Engineer;Deep+Learning+Enthusiast;Computer+Vision+%26+NLP+Explorer;Building+Intelligent+Real-World+Systems;Always+learning%2C+always+building." alt="Typing SVG"/>
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 <table style="width:100%;border:1px solid #1a3a8f;border-collapse:collapse;table-layout:fixed;">
@@ -84,56 +80,6 @@ fun_fact   = "I think in tensors"
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Rohan-Julius">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan-Julius&show_icons=true&theme=tokyonight&bg_color=0a0a2e&title_color=4fc3f7&icon_color=4fc3f7&text_color=90caf9&border_color=1a3a8f&count_private=true&hide_border=false&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/Rohan-Julius">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan-Julius&layout=compact&langs_count=8&theme=tokyonight&bg_color=0a0a2e&title_color=4fc3f7&text_color=90caf9&border_color=1a3a8f&hide_border=false" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Rohan-Julius&theme=tokyonight&background=0a0a2e&border=1a3a8f&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&hide_border=false" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Rohan-Julius">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Julius&bg_color=0a0a2e&color=4fc3f7&line=1a3a8f&point=4fc3f7&area=true&area_color=0d1b5e&border_color=1a3a8f&hide_border=false" alt="Activity Graph" width="100%"/>
-</a>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohan-Julius&theme=tokyonight&no-frame=false&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rohan-Julius&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -150,32 +96,8 @@ fun_fact   = "I think in tensors"
   <img src="https://img.shields.io/badge/Email-rohanjulius10@gmail.com-0a0a2e?style=for-the-badge&logo=gmail&logoColor=4fc3f7&labelColor=0d1b5e" alt="Email"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rohan-Julius&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man Contribution Graph"
-       src="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/output/pacman-contribution-graph.svg"
-       width="100%"/>
-</picture>
-</div>
-
----
-
-## Current Status
-
-```python
-class RohanJulius:
-    status    = "Open to Opportunities"
-    focus     = "AI Agents · Deep Learning · Computer Vision · NLP"
-    location  = "India"
-    available = ["Research Collaborations", "Internships", "Freelance Projects"]
-    learning  = ["LLM Fine-tuning", "MLOps", "Advanced Computer Vision"]
-```  
