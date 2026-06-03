@@ -2,11 +2,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-view.svg"/>
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+          srcset="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-view.svg"/>
   <img alt="3D Contribution Graph"
-       src="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-rainbow.svg"
+       src="https://raw.githubusercontent.com/Rohan-Julius/Rohan-Julius/main/profile-3d-contrib/profile-night-view.svg"
        width="100%"/>
 </picture>
 
