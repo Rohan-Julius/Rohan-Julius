@@ -14,34 +14,6 @@
 
 ---
 
-<div align="center">
-<table style="width:100%;border:1px solid #1a3a8f;border-collapse:collapse;table-layout:fixed;">
-<tr>
-<td style="width:60%;vertical-align:middle;padding:20px;">
-
-```python
-name       = "Rohan Julius"
-degree     = "Integrated M.Tech — CSE (Business Analytics)"
-college    = "VIT Chennai"
-role       = "Aspiring AI Engineer"
-focus      = "AI agents · Deep Learning · Computer Vision · NLP"
-open_to    = ["Collaborations", "Internships", "Research"]
-currently  = "Building intelligent real-world systems"
-fun_fact   = "I think in tensors"
-```
-
-</td>
-<td style="width:40%;vertical-align:middle;text-align:center;padding:20px;">
-
-<img src="https://media1.tenor.com/m/GXo-QsrToJIAAAAC/blue-lock-isagi.gif" alt="Isagi Blue Lock" width="240"/>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
